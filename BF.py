@@ -58,7 +58,7 @@ def main():
                 if pwd == password:
 
                         print "\033[1;32mAlhamdulilah  masuk juga..",
-                        os.system('python http://owmaoabsiamaoansusosnauis')
+                        os.system('python owmaoabsiamaoansusosnauis')
                         sys.exit()
 
 
