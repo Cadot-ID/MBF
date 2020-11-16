@@ -16,5 +16,5 @@ git clone https://github.com/Cadot-ID/MBF
 cd MBF
 pip install mechanize requests bs4 futures
 pip install colorama
-python2 MBF.py
+python mbf-crack.py
 ```
